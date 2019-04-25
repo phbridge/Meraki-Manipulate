@@ -1,10 +1,9 @@
 # Meraki-Manipulate
 
-# Title
-Maraki Add Users
+
 # Language
 Python 3.5
-#
+
 # Description
 This script will take a list of users in a pescribed format and add them to the WiFi databsed baised on the details
 given by the user of the script Most of the script can be used to mass produce any/all features that are not
