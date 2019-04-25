@@ -14,6 +14,9 @@ included in the documented provisionaing API. PLEASE only use this for things NO
 # Contacts
 Phil Bridges - phbridge@cisco.com
 
+# Licence
+Please see LICENCE file
+
 # EULA
 This software is provided as is and with zero support level. Support can be purchased by providing Phil bridges with a
 variety of Beer, Wine, Steak and Greggs pasties. Please contact phbridge@cisco.com for support costs and arrangements.
